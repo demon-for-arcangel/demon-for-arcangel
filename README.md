@@ -14,9 +14,10 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 </p>
 -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=demon-for-arcangel&show_icons=true&locale=en&layout=compact" alt="demon-for-arcangel" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=demon-for-arcangel&show_icons=true&locale=en" alt="demon-for-arcangel" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElenaRgC&hide=papyrus&layout=compact&card_width=500&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **demon-for-arcangel/demon-for-arcangel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
