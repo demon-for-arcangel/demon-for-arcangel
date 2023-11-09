@@ -3,7 +3,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=demon-for-arcangel&show_icons=true&theme=gotham" alt="demon-for-arcangel" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElenaRgC&hide=papyrus&layout=compact&card_width=500&theme=github_dark)](https://github.com/demon-for-angel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demon-for-arcangel&hide=papyrus&layout=compact&card_width=500&theme=github_dark)](https://github.com/demon-for-angel/github-readme-stats)
 
 <a href="https://github.com/demon-for-arcangel" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demon-for-arcangel&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=ec4899&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
