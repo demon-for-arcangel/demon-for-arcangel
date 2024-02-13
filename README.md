@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Marina Laguna</h1>
 <h3 align="center">I am studying web application development.</h3>
 
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=demon-for-arcangel" alt="demon-for-arcangel" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -70,5 +75,7 @@ Estadisticas en rojo
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
     </p>
-<--
+
+-->
+![Views](https://komarev.com/ghpvc/?username=demon-for-arcangel-h&label=Profile+visitors:)
 
