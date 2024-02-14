@@ -77,5 +77,3 @@ Estadisticas en rojo
     </p>
 
 -->
-![Views](https://komarev.com/ghpvc/?username=demon-for-arcangel-h&label=Profile+visitors:)
-
