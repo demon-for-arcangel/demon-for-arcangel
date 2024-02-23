@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marina Laguna</h1>
 <h3 align="center">I am studying web application development.</h3>
 
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=demon-for-arcangel" alt="demon-for-arcangel" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
