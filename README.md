@@ -21,7 +21,7 @@
 <a href="https://angular.io/"> <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" width="80" height="40" </a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=demon-for-arcangel&show_icons=true&theme=gotham" alt="demon-for-arcangel" />
+<img src="https://github-readme-stats.vercel.app/api?username=demon-for-arcangel&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=gotham#gh-dark-mode-only)](https://github.com/demon-for-arcangel/github-readme-stats" alt="demon-for-arcangel" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demon-for-arcangel&hide=papyrus&layout=compact&card_width=500&theme=github_dark)](https://github.com/demon-for-angel/github-readme-stats)
 
