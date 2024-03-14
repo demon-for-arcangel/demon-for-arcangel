@@ -58,9 +58,9 @@ Coming soon 😅
 
 <img src="https://github-readme-stats.vercel.app/api?username=demon-for-arcangel&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=gotham#gh-dark-mode-only)](https://github.com/demon-for-arcangel/github-readme-stats" alt="demon-for-arcangel" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demon-for-arcangel&hide=papyrus&layout=compact&card_width=500&theme=github_dark)](https://github.com/demon-for-angel/github-readme-stats)
+[![Most Use Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demon-for-arcangel&hide=papyrus&layout=compact&card_width=500&theme=github_dark)](https://github.com/demon-for-angel/github-readme-stats)
 
-<a href="https://github.com/demon-for-arcangel" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demon-for-arcangel&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=ec4899&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=demon-for-arcangel&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=ec4899&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages)
 
 <!--
 
