@@ -3,7 +3,8 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=demon-for-arcangel" alt="demon-for-arcangel" /></a> </p>
 
-<h3 align="left">Languages and Tools:</h3>
+# 💻 Some technologies I use:
+
 <p align="left"> 
      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
     <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
@@ -20,6 +21,17 @@
 <a href="https://nodejs.org/en" ><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="node" width="90" height="40"/> </a> 
 <a href="https://angular.io/"> <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" width="80" height="40" </a>
 </p>
+
+
+## ⚒️   My projects:
+
+Coming soon 😅
+
+## 🌐 Find me around the web
+
+- [linkedIn](https://www.linkedin.com/in/marina-laguna-887498278)
+
+## 📈   Some of my stats are:
 
 <img src="https://github-readme-stats.vercel.app/api?username=demon-for-arcangel&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=gotham#gh-dark-mode-only)](https://github.com/demon-for-arcangel/github-readme-stats" alt="demon-for-arcangel" />
 
