@@ -60,7 +60,5 @@ Coming soon 😅
 
 [![Most Use Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demon-for-arcangel&hide=papyrus&layout=compact&card_width=500&theme=github_dark)](https://github.com/demon-for-angel/github-readme-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=demon-for-arcangel&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=ec4899&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=demon-for-arcangel&label=Profile%20Views&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
